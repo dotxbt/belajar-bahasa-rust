@@ -8,6 +8,7 @@ fn get_message(name: String) -> String {
     message.push_str(&name);
     message.push_str("!");
     message
+    message
 }
 
 fn modified_with_return(mut data: String) -> String {
