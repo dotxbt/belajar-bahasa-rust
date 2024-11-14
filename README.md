@@ -31,7 +31,7 @@ cargo run
 
 ### Basic Language Checklost
 - [x] Hello World
-- [ ] Data Types
+- [x] Data Types
 - [ ] Variables
 - [ ] Functions
 - [ ] Looping
