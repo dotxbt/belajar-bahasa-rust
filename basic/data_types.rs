@@ -58,16 +58,16 @@ fn this_is_integer() {
 }
 
 fn this_is_floating_point() {
-    let _float32bit: f32 = 123456789123456789.987654321;
-    let _float64bit: f64 = 123456789123456789123456789.987654321;
+    let _float32bit: f32 = 23424.987654321;
+    let _float64bit: f64 = 234242424.987654321;
     println!(
-        "FLOATING POINT :\n- f32: {}\n- f64: {}\n",
+        "FLOATING POINT :\n- f32: {:?}\n- f64: {:?}\n",
         _float32bit,
         _float64bit,
     );
 
     println!(
-        "LIMIT FLOATING POINT :\n- f32:\t{} ... {}\n- f64:\t{} ... {}\n",
+        "LIMIT FLOATING POINT :\n- f32:\t{:?} ... {:?}\n- f64:\t{:?} ... {:?}\n",
         f32::MIN,
         f32::MAX,
         f64::MIN,
