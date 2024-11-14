@@ -2,6 +2,20 @@
 
 ### Commands
 ```bash
+########### FILE ###########
+# compile file
+rustc file_name.rs
+
+# compile file with option output executable file name
+rustc -o output_exe file_name.rs
+
+# run file
+./file_name
+
+# or 
+./output_exe
+
+########### PROJECT ###########
 # creat project
 cargo new project_name
 
