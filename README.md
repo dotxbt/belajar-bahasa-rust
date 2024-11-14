@@ -29,7 +29,7 @@ cargo run
 ./target/debug/project_name_binary
 ```
 
-### Basic Language Checklost
+### Basic Language Checklist
 - [x] Hello World
 - [x] Data Types
 - [ ] Variables
