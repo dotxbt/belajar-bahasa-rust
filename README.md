@@ -35,3 +35,12 @@ cargo run
 - [ ] Variables
 - [ ] Functions
 - [ ] Looping
+
+### Collections Checklist
+- [x] Array
+- [x] Tupple
+- [x] Vector
+- [ ] HashMap
+- [ ] HashSet
+- [ ] LinkedList
+- [ ] BinaryHeap
