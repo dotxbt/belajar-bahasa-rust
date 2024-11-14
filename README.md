@@ -35,4 +35,3 @@ cargo run
 - [ ] Variables
 - [ ] Functions
 - [ ] Looping
-- [ ] Array
